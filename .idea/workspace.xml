@@ -2,14 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d275ea0-0d18-4e72-9736-2c350289f4f0" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/templates/base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/articles.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/articles.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.py.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -24,6 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.r.configuration.RActiveInterpreterProjectConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -37,5 +48,19 @@
       <updated>1582111613745</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2018" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582207091857">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2018" y="211" key="#com.intellij.execution.impl.EditConfigurationsDialog/1600.0.1920.1080/0.26.1600.874@1600.0.1920.1080" timestamp="1582207091857" />
+    <state x="2207" y="219" width="1022" height="731" key="SettingsEditor" timestamp="1582206713098">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2207" y="219" width="1022" height="731" key="SettingsEditor/1600.0.1920.1080/0.26.1600.874@1600.0.1920.1080" timestamp="1582206713098" />
+    <state x="2216" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1582206314777">
+      <screen x="1600" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2216" y="380" key="com.intellij.ide.util.TipDialog/1600.0.1920.1080/0.26.1600.874@1600.0.1920.1080" timestamp="1582206314777" />
   </component>
 </project>
